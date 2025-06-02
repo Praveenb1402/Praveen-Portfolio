@@ -45,11 +45,11 @@ const Contact: React.FC = () => {
           </p>
         </div>
         
-        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 justify-center items-center">
           {/* Contact Info */}
-          <div className="bg-gray-50 dark:bg-gray-800 p-8 rounded-xl shadow-md">
-            <h3 className="text-2xl font-bold text-gray-800 dark:text-white mb-6">
-              Contact Information
+          <div className="bg-gray-50 dark:bg-gray-800 p-8 rounded-xl shadow-md justify-center items-center  ">
+            <h3 className="text-2xl font-bold text-gray-800 dark:text-white mb-6 justify-center items-center">
+            <center>Contact Information</center>
             </h3>
             
             <div className="space-y-6">
@@ -133,7 +133,7 @@ const Contact: React.FC = () => {
             </div>
           </div>
           
-          {/* Contact Form */}
+          {/* Contact Form
           <div className="bg-white dark:bg-gray-900 p-8 rounded-xl shadow-md border border-gray-200 dark:border-gray-700">
             <h3 className="text-2xl font-bold text-gray-800 dark:text-white mb-6">
               Send Me a Message
@@ -220,7 +220,7 @@ const Contact: React.FC = () => {
                 </button>
               </form>
             )}
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
