@@ -47,8 +47,8 @@ const Contact: React.FC = () => {
         
         <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-1 gap-8 justify-center items-center">
           {/* Contact Info */}
-          <div className="bg-gray-50 dark:bg-gray-800 p-8 rounded-xl shadow-md justify-center items-center  ">
-            <h3 className="text-2xl font-bold text-gray-800 dark:text-white mb-6 justify-center items-center">
+          <div className="bg-gray-50 dark:bg-gray-800 p-8 rounded-xl shadow-md">
+            <h3 className="text-2xl font-bold text-gray-800 dark:text-white mb-6 ">
             <center>Contact Information</center>
             </h3>
             
