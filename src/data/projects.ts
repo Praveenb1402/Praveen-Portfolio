@@ -52,7 +52,7 @@ export const projects: Project[] = [
     description: "A Quiz base gaming application with realtime question, helplines and many more ",
     image: "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     technologies: ["Flutter", "Dart", "Firebase RealTime Database","Google Ads"],
-    playstore: "https://play.google.com",
+    // playstore: "https://play.google.com",
     featured: false
   },
   // {
