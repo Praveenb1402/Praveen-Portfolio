@@ -14,7 +14,7 @@ export const projects: Project[] = [
     id: 1,
     title: "Personal Health Care",
     description: "A comprehensive moblie application that enables doctor-patient communication, appointment scheduling, and emergency services.",
-    image: "${process.env.PUBLIC_URL}/applogo-playstore.png",
+    image: "https://praveenb1402.github.io/Praveen-Portfolio//applogo-playstore.png",
     technologies: ["Java", "XML", "Room Database", "Firebase"],
     github: "https://github.com/swastik-bhat-ms/My-personal-Health-Care",
     featured: true
