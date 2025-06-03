@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
                 Praveen B
               </h1>
               <p className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300 mb-6">
-                Android Developer
+                Software Developer
               </p>
             </div>
             {/* Image: show below text on mobile, hidden on desktop */}
@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
             </div>
             <div className="opacity-0 transition-opacity duration-700" ref={subtitleRef}>
               <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 mb-8 max-w-xl mx-auto md:mx-0 leading-relaxed">
-                I create intuitive and innovative Android applications that deliver exceptional user experiences. 
+                I create intuitive and innovative Software that deliver exceptional user experiences. 
                 Specializing in Flutter, Java, and modern Android development practices.
               </p>
             </div>
