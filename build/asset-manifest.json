@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Praveen-Portfolio/static/css/main.1cf2dfa3.css",
+    "main.js": "/Praveen-Portfolio/static/js/main.7a429d22.js",
+    "static/js/453.1407b060.chunk.js": "/Praveen-Portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Praveen-Portfolio/index.html",
+    "main.1cf2dfa3.css.map": "/Praveen-Portfolio/static/css/main.1cf2dfa3.css.map",
+    "main.7a429d22.js.map": "/Praveen-Portfolio/static/js/main.7a429d22.js.map",
+    "453.1407b060.chunk.js.map": "/Praveen-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf2dfa3.css",
+    "static/js/main.7a429d22.js"
+  ]
+}
