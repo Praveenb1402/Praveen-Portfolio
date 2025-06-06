@@ -41,7 +41,7 @@ const Contact: React.FC = () => {
             Get In Touch
           </h2>
           <p className="text-gray-700 dark:text-gray-300 max-w-2xl mx-auto">
-            Interested in working together? Feel free to reach out for collaborations or just a friendly hello.
+            Interested in working together?   Feel free to reach out for collaborations or just a friendly hello.
           </p>
         </div>
         
