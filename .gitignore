@@ -1,20 +1,22 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Node modules
+node_modules/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# Build output
+build/
 
-# testing
-/coverage
+# Dependency directories
+npm-debug.log
+package-lock.json
 
+<<<<<<< HEAD
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+=======
+# Editor files
+.vscode/
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# React environment variables
+.env
+
+# OS-specific files
+>>>>>>> 6303cea31eaf0188ce4fc5b03adfadb81c489530
+.DS_Store
