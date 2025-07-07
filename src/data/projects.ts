@@ -59,7 +59,7 @@ export const projects: Project[] = [
     id: 6,
     title: "Puzzle Adventure",
     description: "A game where the next level is based on the users performance. ",
-    image: "https://praveenb1402.github.io/Praveen-Portfolio/logopuzle.png",
+    image: "https://praveenb1402.github.io/Praveen-Portfolio//logopuzle.png",
     technologies: ["React", "Replet", "Vercel"],
     github: "https://github.com/Praveenb1402/Peer2PeerGameathon-5q",
     playstore: "https://v0-2d-puzzle-game-design-git-main-praveenb1402-2127s-projects.vercel.app/",
