@@ -55,14 +55,14 @@ export const projects: Project[] = [
     // playstore: "https://play.google.com",
     featured: false
   },
-  // {
-  //   id: 6,
-  //   title: "Crypto Monitor",
-  //   description: "Real-time cryptocurrency tracking app with price alerts, portfolio management, and market trends analysis using modern Android architecture.",
-  //   image: "https://images.pexels.com/photos/6780789/pexels-photo-6780789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  //   technologies: ["Kotlin", "Coroutines", "Retrofit", "MVVM", "LiveData"],
-  //   github: "https://github.com",
-  //   playstore: "https://play.google.com",
-  //   featured: false
-  // }
+{
+    id: 6,
+    title: "Puzzle Adventure",
+    description: "A game where the next level is based on the users performance. ",
+    image: "https://praveenb1402.github.io/Praveen-Portfolio/logopuzle.png",
+    technologies: ["React", "Replet", "Vercel"],
+    github: "https://github.com/Praveenb1402/Peer2PeerGameathon-5q",
+    playstore: "https://v0-2d-puzzle-game-design-git-main-praveenb1402-2127s-projects.vercel.app/",
+    featured: false
+  }
 ];
