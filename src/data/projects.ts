@@ -34,7 +34,7 @@ export const projects: Project[] = [
     description: "An all-in-one travel companion app that helps users plan trips, find local attractions, and navigate unfamiliar areas with offline maps.",
     image: "https://images.pexels.com/photos/2007401/pexels-photo-2007401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     technologies: ["Flutter", "Cloudinary", "Dart", "Firebase","Authentication"],
-    // github: "https://github.com",
+    github: "https://github.com/Praveenb1402/Hangouts.git",
     featured: true
   },
   {
