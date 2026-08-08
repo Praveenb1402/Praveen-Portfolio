@@ -50,10 +50,10 @@ export const projects: Project[] = [
     id: 5,
     title: "Quizbuzz",
     description: "A Quiz base gaming application with realtime question, helplines and many more ",
-   image: "https://github.com/Praveenb1402/Praveen-Portfolio/blob/main/public/quizbuzzlogo.png",
+   image: "https://praveenb1402.github.io/Praveen-Portfolio//quizbuzzlogo.png",
     technologies: ["Flutter", "Dart", "Firebase RealTime Database","Google Ads"],
-    // playstore: "https://play.google.com",
-    featured: false
+    playstore: "https://play.google.com/store/apps/details?id=com.quizbuz.quizbuz&pcampaignid=web_share",
+    featured: true
   },
 {
     id: 6,
